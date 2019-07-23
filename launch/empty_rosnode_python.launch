@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<launch>
+  <node pkg="empty_rosnode_python" type="empty_rosnode_python" name="empty_rosnode_python" output="screen">
+  </node>
+</launch>
